@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 500px;
+    height: 200px;
+    border: 1px solid #000;
+}
+
+p {
+    font-size: 19px;
+    font-family: sans-serif;
+}
+
+ol {
+    padding: 0px 15px;
+    
+}
